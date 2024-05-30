@@ -1,0 +1,26 @@
+// Question no 28 :Stages of Life
+let age = 100;
+
+if (age < 2 ){
+    console.log("The person is a baby")
+}
+
+else if( age <4  ){
+    console.log("The person is a toodler")
+}
+
+else if( age <13  ){
+    console.log("The person is a kid")
+}
+
+else if(age <20  ){
+    console.log("The person is a teenager")
+}
+
+else if( age < 65  ){
+    console.log("The person is a adult")
+}
+
+else {
+    console.log("The person is an elder")
+}
